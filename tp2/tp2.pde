@@ -28,6 +28,5 @@ void draw(){
     pantalla5();
  } else if (pantalla==6){
     pantalla6();
-     boton2();
 }
 }
